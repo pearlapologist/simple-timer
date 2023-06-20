@@ -1,0 +1,13 @@
+body {
+    background: #FFFFFF;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 300px;
+    font-style: normal;
+  }
+  span {
+    color: rgb(36, 50, 76);;
+  }
